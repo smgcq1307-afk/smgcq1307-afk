@@ -1,4 +1,4 @@
-<h1 align="center">👋 你好，我是 smgcq1307</h1>
+<h1 align="center">👋 你好，我是CQ_</h1>
 <p align="center"><strong>网络空间安全专业在读 | CTF逆向方向</strong></p>
 
 ---
