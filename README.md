@@ -41,7 +41,7 @@
 ## 🌐 联系我
 
 <p align="center">
-  <a href="https://smg1307.space" target="_blank">
+  <a href="https://www.smg1307.space" target="_blank">
     <img src="https://img.shields.io/badge/Blog-smg1307.space-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://space.bilibili.com/359006004?spm_id_from=333.1007.0.0" target="_blank">
